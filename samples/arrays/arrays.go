@@ -3,7 +3,6 @@ package arrays
 import "fmt"
 
 func Println() {
-
 	var a [5]int
 	fmt.Println("emp:", a)
 
